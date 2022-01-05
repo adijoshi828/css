@@ -1,0 +1,16 @@
+Day 2
+
+-CSS Stands for cascading style sheet
+
+Selectors
+-Selectors are ways of grabbing and manupulating HTML
+-Types:
+    The element selector : Ranks at bottom
+    The class selector : Used with certain class name
+    The ID Selector : Used to select elements with a certain ID
+
+Specificity
+-headers are least specific
+-Then comes class selectors
+-Then comes id selectors
+-Then comes inline styling
