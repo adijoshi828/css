@@ -1,0 +1,26 @@
+#title {
+  color: rgb(69, 88, 255);
+  font-family: "Roboto", sans-serif;
+}
+
+.subtitle {
+  color: rgba(69, 50, 255, 0.5);
+  font-family: "Roboto", sans-serif;
+}
+
+.service-image {
+  height: 400px;
+  width: 70%;
+
+  background: radial-gradient(circle, red 20%, blue 40%, green 55%);
+}
+
+body {
+  font-size: 2em;
+  text-align: justify;
+  font-family: "Lato", sans-serif;
+}
+
+.link {
+  text-decoration: none;
+}

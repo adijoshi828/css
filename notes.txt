@@ -14,3 +14,29 @@ Specificity
 -Then comes class selectors
 -Then comes id selectors
 -Then comes inline styling
+
+Day 3
+
+Types of colors
+-css color codes(eg. red, blue, greeen)
+-Hex codes(eg. #FFFFFF)
+-RGB color codes(eg. rgb(0,0,0))
+
+Background Properties
+-background-color
+-background-image
+-background-repeat
+-background-size
+
+Gradients
+-Two types of Gradients
+    Radial Gradients
+    Linear Gradients
+
+Types of units
+-Absolute units(eg. px)
+-Relative units(eg. percentage(%))
+
+Text & Font Manupulation
+-Text Manupulation include bolding, italicing, etc
+-Font Manupulation include font-size, font-color, etc
