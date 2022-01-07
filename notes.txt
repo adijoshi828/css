@@ -40,3 +40,32 @@ Types of units
 Text & Font Manupulation
 -Text Manupulation include bolding, italicing, etc
 -Font Manupulation include font-size, font-color, etc
+
+Day 4
+
+Box Model
+-Border :
+    Solid
+    Dotted
+    dashed
+    double
+
+-Padding:
+    Used to sperate content inside the box
+    padding: top right bottom left; OR padding: top/bottom left/right; OR padding: all;
+
+-Margin
+    Used to sperate content outside the box
+    margin: top right botttom left; OR margin: top/bottom left/right; OR margin: all;
+
+Flexbox
+-It is a display type that comes with a range of Properties allowing you to arrange items easily.
+-FlexWrap
+    Moves element to the new line when items get to the end
+-Flex property
+    flex: flex-grow flex-shrink flex-basis;
+
+Grid
+-Similar to flexbox, grid is a display type that can be used to activate certain layout features on a container element.
+-Grid provides manupulating height and width of the layout.
+- grid-gap: row-gap column-gap;

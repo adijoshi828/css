@@ -1,4 +1,42 @@
 #about-img {
   height: 300px;
   width: 60vw;
+
+  border: 10px solid rgba(0, 0, 255, 1);
+
+  margin: 80px 40px;
+
+  float: inherit;
+}
+
+.container {
+  display: flex;
+  height: 300px;
+
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+
+.container-item {
+  background-color: green;
+  margin: 10px;
+  color: white;
+
+  text-align: center;
+  width: 70px;
+  line-height: 50px;
+}
+
+.grid-container {
+  display: grid;
+  height: 500px;
+
+  grid-template-columns: auto auto auto;
+  grid-template-rows: auto auto;
+  grid-gap: 300px 150px;
+  /* justify-content: space-between;
+  align-content: center; */
 }
